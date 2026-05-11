@@ -90,35 +90,24 @@ Created multiple visualizations including:
 
 ## 📊 Visualizations
 
-## 📊 Visualizations
-
 ### Sentiment Distribution
 Shows the count of Positive, Negative, and Neutral reviews.
 
-![Sentiment Distribution](charts/sentiment_bar.png)
+![Sentiment Distribution](sentiment_bar.png)
 
 ---
 
 ### Sentiment Percentage Analysis
 Visualizes overall sentiment share using a pie chart.
 
-![Sentiment Percentage Analysis](charts/sentiment_pie.png)
+![Sentiment Percentage Analysis](sentiment_pie.png)
 
 ---
 
 ### Rating vs Sentiment Analysis
 Compares customer ratings with predicted sentiment categories.
 
-![Rating vs Sentiment Analysis](charts/custom_chart.png)
-### Sentiment Percentage Analysis
-
-* Visualized overall sentiment share using pie chart
-
-### Rating vs Sentiment Analysis
-
-* Compared review ratings with predicted sentiment categories
-
----
+![Rating vs Sentiment Analysis](custom_chart.png)
 
 ## 🔍 Key Insights
 
